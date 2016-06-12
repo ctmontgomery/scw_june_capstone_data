@@ -40,7 +40,8 @@ df['column_name'].hist()
 
 new_df = df[[something, something, etc.]]
 
+
 df.plot(x = 'something', y = 'something2', kind = 'type of plot')
 url:
 http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.plot.html
-
+Swapnil and Chris collaborated on this...
